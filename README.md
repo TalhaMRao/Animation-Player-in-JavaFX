@@ -1,6 +1,6 @@
 # Animation-Player-in-JavaFX
 
-Program that makes animation in a seperate windows using JavaFX.
+Program that makes animation in a seperate window using JavaFX.
 Reads in using an animation.txt file
 
 /*  NOTE: ANIMATION FILE MUST BE MODIFIED
